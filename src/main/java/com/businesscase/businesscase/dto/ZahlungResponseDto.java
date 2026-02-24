@@ -1,9 +1,7 @@
 package com.businesscase.businesscase.dto;
 
 import com.businesscase.businesscase.model.Status;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 import java.math.BigDecimal;
 
